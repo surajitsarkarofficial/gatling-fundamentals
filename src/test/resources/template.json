@@ -1,0 +1,6 @@
+{
+  "id": #{id},
+  "idBook": #{bookId},
+  "firstName": "#{firstName}",
+  "lastName": "#{lastName}"
+}
